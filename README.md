@@ -1,1 +1,1 @@
-# thesis
+# graduate-thesis
