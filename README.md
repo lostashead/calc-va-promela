@@ -1,4 +1,4 @@
-# graduate-thesis
+# model checking with variability
 
 ## FEATURES
 ・These codes are for graduate thesis. <br>
