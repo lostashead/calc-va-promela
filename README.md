@@ -10,4 +10,5 @@
 
 ## NOTES
 ・Does not support communication between multiple state machines.<br>
-・The probability of the model should be given as the initial probability. After determining the probability using Bayesian network etc., edit it directly in files.json
+・The probability of the model should be given as the initial probability. After determining the probability using Bayesian network etc., edit it directly in files.json<br>
+・This code is very close to incomplete and is missing yesterday. You need to work harder to make it better
