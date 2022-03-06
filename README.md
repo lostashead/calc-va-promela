@@ -6,7 +6,7 @@
 
 ## MODELS
 ・Created assuming a state machine diagram.<br>
-・You have to change model directly in files.json when you want do model checking for other model.
+・You have to change model directly in files.json when you want to do model checking for other model.
 
 ## NOTES
 ・Does not support communication between multiple state machines.<br>
